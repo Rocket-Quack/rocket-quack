@@ -1,5 +1,14 @@
 # 🦆 HELLO THERE DUCKLING 🦆
 
+### ☕ Support Me
+
+Wenn du mich unterstützen möchtest, kannst du das gerne über Ko-fi tun – jeder Beitrag hilft und bedeutet mir viel!
+If you'd like to support me, feel free to do so on Ko-fi – every contribution helps and means a lot to me!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rocketquack)
+
+----
+
 ### 🧑‍💻 Programming Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
