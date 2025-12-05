@@ -55,10 +55,6 @@ If you'd like to support me, feel free to do so on Ko-fi – every contribution 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 
-### 📊 Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rocket-quack&theme=chartreuse-dark)
-
 
 
 <!--
