@@ -1,9 +1,9 @@
 # 🦆 HELLO THERE DUCKLING 🦆
 
-### ☕ Support Me
+## ☕ Duck food
 
+If you'd like to support me, feel free to do so on Ko-fi – every contribution helps and means a lot to me!  
 Wenn du mich unterstützen möchtest, kannst du das gerne über Ko-fi tun – jeder Beitrag hilft und bedeutet mir viel!  
-If you'd like to support me, feel free to do so on Ko-fi – every contribution helps and means a lot to me!
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rocketquack)
 
@@ -41,20 +41,15 @@ If you'd like to support me, feel free to do so on Ko-fi – every contribution 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-black?style=for-the-badge&logo=frappe)
 ![ERPNext](https://img.shields.io/badge/ERPNext-grey?style=for-the-badge&logo=erpnext)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ![OVHCloud](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
-
 
 
 <!--
